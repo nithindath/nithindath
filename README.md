@@ -1,4 +1,3 @@
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" alt="hello" />
   Hi, I'm <span style="color:#00f8ff">Nithin Dath</span> ⚡
 💻 **Senior IT Engineer | Network & Infrastructure | Retail IT Operations**  
