@@ -29,7 +29,7 @@ I am an experienced IT engineer specializing in network infrastructure, router/s
 ### 🔧 Network Automation Toolkit  
 Scripts and templates for automating Cisco router configurations and backups.  
 
-### 📊 Retail IT Monitor  
+### 📊 Retail IT Monitoring  
 Dashboard project to monitor connectivity and device status across retail outlets.  
 
 ### 🎓 CCNA Practice Labs  
@@ -53,5 +53,3 @@ Handled system administration, server maintenance, and troubleshooting network i
 - Diploma in Hardware & Networking (CCNA, MCSA, Networking, Hardware)  
 
 ---
-
-© 2025 **Nithin Dath PP** — Hosted on GitHub Pages
