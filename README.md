@@ -21,7 +21,7 @@ I am an experienced IT engineer specializing in network infrastructure, router/s
 - Routing & VLAN Configuration  
 - Firewall & ACL Management  
 - POS / RFID / PDA Setup  
-<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/a062f07f-ce43-440e-9b6e-4a48591498a4" />
+<img width="50" height="30" alt="images" src="https://github.com/user-attachments/assets/a062f07f-ce43-440e-9b6e-4a48591498a4" />
 
 ---
 
