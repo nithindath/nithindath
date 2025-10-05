@@ -21,6 +21,7 @@ I am an experienced IT engineer specializing in network infrastructure, router/s
 - Routing & VLAN Configuration  
 - Firewall & ACL Management  
 - POS / RFID / PDA Setup  
+<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/a062f07f-ce43-440e-9b6e-4a48591498a4" />
 
 ---
 
@@ -32,7 +33,7 @@ Scripts and templates for automating Cisco router configurations and backups.
 ### 📊 Retail IT Monitoring  
 Dashboard project to monitor connectivity and device status across retail outlets.  
 
-### 🎓 CCNA Practice Labs  
+### 🎓 CCNP Practice Labs  
 Collection of Packet Tracer and GNS3 lab files used for CCNA preparation.  
 
 ---
@@ -52,4 +53,3 @@ Handled system administration, server maintenance, and troubleshooting network i
 - B.E. in Electronics & Communication — Dr. Pauls Engineering College, 2014  
 - Diploma in Hardware & Networking (CCNA, MCSA, Networking, Hardware)  
 
----
