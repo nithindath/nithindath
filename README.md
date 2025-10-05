@@ -1,5 +1,6 @@
-![hi](https://github.com/user-attachments/assets/8712b8b1-61c8-4014-860a-138b2d2ca736)
-#**Hello,I'm Nithin Dath PP**
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" alt="hello" />
+  Hi, I'm <span style="color:#00f8ff">Nithin Dath</span> ⚡
 💻 **Senior IT Engineer | Network & Infrastructure | Retail IT Operations**  
 
 📧 [Email](mailto:nithindath@gmail.com) • 🐙 [GitHub](https://github.com/nithindath) • 🔗 [LinkedIn](https://linkedin.com/in/nithindath)
